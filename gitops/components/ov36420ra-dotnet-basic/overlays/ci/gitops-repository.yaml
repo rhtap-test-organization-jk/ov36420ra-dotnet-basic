@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ov36420ra-dotnet-basic-gitops-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/ov36420ra-dotnet-basic-gitops
